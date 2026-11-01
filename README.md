@@ -26,9 +26,9 @@ python3 week07/functions.py
 ### 1. Commit History
 
 ```text
-1739ab3 add README with module listing and run instructions
-610ab02 add module 7 functions: calculate_tax, apply_discount, final_price
-79824f2 add .gitignore for Python and OS files
+e57dc83 add README with module listing and run instructions
+16b8868 add module 7 functions: calculate_tax, apply_discount, final_price
+443a83a add .gitignore for Python and OS files
 ```
 
 If I were hiring someone and saw this history, it would tell me that they work in an organized way and separate a project into clear steps. The messages explain what changed, so another person could understand the progress without opening every file.
